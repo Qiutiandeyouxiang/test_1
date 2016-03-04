@@ -1,0 +1,2 @@
+git clone https://github.com/user/repository.git
+git checkout --orphan gh-pages
